@@ -1,0 +1,37 @@
+message,true_intent
+I'm so stressed out about my exams.,stress
+Work deadlines are killing me.,stress
+I can't handle all this pressure anymore.,stress
+I feel overwhelmed by responsibilities.,stress
+I keep worrying about everything.,anxiety
+My heart races for no reason and I can't sleep.,anxiety
+I have panic attacks almost daily.,anxiety
+I feel anxious all the time.,anxiety
+I feel empty inside all the time.,depression
+Nothing brings me joy anymore.,depression
+I've lost interest in everything I used to love.,depression
+I feel like a burden to everyone.,depression
+I just lost my mother and I can't cope.,grief
+My friend passed away and I feel devastated.,grief
+I'm grieving the loss of my pet.,grief
+The death of my grandmother has broken me.,grief
+"I feel so alone, nobody talks to me.",loneliness
+I have no friends and I feel isolated.,loneliness
+I moved to a new city and feel completely alone.,loneliness
+Nobody cares about me.,loneliness
+"Hello, how are you?",greeting
+Hi there!,greeting
+Good morning!,greeting
+"Hey, nice to meet you.",greeting
+Can you help me find a therapist?,help
+I need professional help.,help
+Where can I get counseling?,help
+How do I talk to a mental health professional?,help
+Can I take a depression test?,screening_request
+I want to check my anxiety levels.,screening_request
+Is there a mental health questionnaire I can fill?,screening_request
+I'd like to do a self-assessment.,screening_request
+What time is it?,unknown
+Can you order pizza for me?,unknown
+Tell me a joke.,unknown
+What is the capital of France?,unknown

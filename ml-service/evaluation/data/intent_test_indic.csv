@@ -1,0 +1,31 @@
+message,language,true_intent
+मुझे बहुत तनाव हो रहा है,hi,stress
+परीक्षा की चिंता से नींद नहीं आती,hi,stress
+मुझे हर वक्त चिंता रहती है,hi,anxiety
+मेरा दिल बहुत तेज धड़कता है बिना कारण,hi,anxiety
+मुझे किसी चीज़ में मन नहीं लगता,hi,depression
+मैं अंदर से खालीपन महसूस करता हूँ,hi,depression
+मेरी माँ का निधन हो गया,hi,grief
+मैं अपने दोस्त की मौत से टूट गया हूँ,hi,grief
+मुझे बहुत अकेलापन लगता है,hi,loneliness
+कोई मेरे साथ नहीं है,hi,loneliness
+"नमस्ते, कैसे हो?",hi,greeting
+हैलो!,hi,greeting
+मुझे मदद चाहिए,hi,help
+क्या मैं डिप्रेशन टेस्ट ले सकता हूँ?,hi,screening_request
+आज मौसम कैसा है?,hi,unknown
+مجھے بہت تناؤ ہو رہا ہے,ur,stress
+امتحانات کی وجہ سے نیند نہیں آتی,ur,stress
+مجھے ہر وقت فکر رہتی ہے,ur,anxiety
+میرا دل بلا وجہ تیز دھڑکتا ہے,ur,anxiety
+مجھے کسی چیز میں دلچسپی نہیں رہی,ur,depression
+میں اندر سے خالی محسوس کرتا ہوں,ur,depression
+میری امی کا انتقال ہو گیا,ur,grief
+میں اپنے دوست کی موت سے ٹوٹ گیا ہوں,ur,grief
+مجھے بہت تنہائی محسوس ہوتی ہے,ur,loneliness
+کوئی میرے ساتھ نہیں ہے,ur,loneliness
+السلام علیکم,ur,greeting
+ہیلو!,ur,greeting
+مجھے مدد چاہیے,ur,help
+کیا میں ڈپریشن ٹیسٹ لے سکتا ہوں؟,ur,screening_request
+آج موسم کیسا ہے؟,ur,unknown

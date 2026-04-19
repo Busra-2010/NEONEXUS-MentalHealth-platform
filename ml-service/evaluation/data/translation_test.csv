@@ -1,0 +1,60 @@
+source_text,source_lang,reference_translation,target_lang
+मुझे बहुत तनाव हो रहा है,hi,I am very stressed,en
+मैं ठीक हूँ,hi,I am fine,en
+मुझे मदद चाहिए,hi,I need help,en
+आज अच्छा दिन है,hi,Today is a good day,en
+मुझे चिंता हो रही है,hi,I am feeling worried,en
+मैं बहुत अकेला महसूस करता हूँ,hi,I feel very lonely,en
+مجھے بہت پریشانی ہو رہی ہے,ur,I'm getting so upset.,en
+میں ٹھیک ہوں,ur,I'm fine.,en
+مجھے مدد چاہیے,ur,I need help.,en
+آج اچھا دن ہے,ur,Today good today.,en
+مجھے فکر ہو رہی ہے,ur,I'm worried.,en
+میں بہت اکیلا محسوس کرتا ہوں,ur,I feel so alone,en
+میں بہت تھکا ہوا ہوں,ur,I'm tired.,en
+I am feeling sad,en,मैं दुखी महसूस कर रहा हूँ,hi
+I cannot focus on anything,en,मैं किसी भी बात पर ध्यान नहीं दे सकता,hi
+I feel like crying,en,मैं रोने की तरह लग रहा है,hi
+I am very scared,en,मैं बहुत डर गया हूँ,hi
+I feel empty inside,en,मैं अंदर खाली लग रहा है,hi
+I have no motivation,en,मेरे पास कोई प्रेरणा नहीं है,hi
+I feel like giving up,en,मैं छोड़ने की तरह लग रहा है,hi
+I cannot stop worrying,en,मैं चिंता करना बंद नहीं कर सकता,hi
+I feel like no one understands me,en,मुझे लगता है कि कोई मुझे समझता है,hi
+I am having panic attacks,en,मैं आतंकित हमले कर रहा हूँ,hi
+I feel worthless,en,मैं बेकार लग रहा है,hi
+I cannot eat properly,en,मैं ठीक से खा नहीं सकता,hi
+I feel like a burden,en,मैं एक बोझ की तरह लग रहा है,hi
+I am always tired,en,मैं हमेशा थक गया हूँ,hi
+I need someone to talk to,en,मैं किसी से बात करने की जरूरत है,hi
+I am feeling very stressed,en,मैं बहुत तनाव महसूस कर रहा हूँ,hi
+I need help urgently,en,मुझे जल्द - से - जल्द मदद की ज़रूरत है,hi
+I feel very anxious about everything,en,मैं सब बातों के बारे में बहुत चिंतित महसूस करता हूँ,hi
+Please connect me to a counselor,en,कृपया मुझे एक सलाहकार से कनेक्ट करें,hi
+I have been feeling depressed lately,en,मैं हाल ही में हताश महसूस किया गया है,hi
+I feel hopeless and alone,en,मैं निराशाजनक और अकेला महसूस करता हूँ,hi
+I need help,en,मैं मदद की जरूरत है,hi
+I am feeling sad,en,مجھے افسوس ہے,ur
+I cannot focus on anything,en,میں نے کچھ پر نظر نہیں کر سکتے ہیں,ur
+I feel like crying,en,مجھے رونے کی طرح محسوس ہوتا ہے,ur
+I am very scared,en,میں بہت خوفزدہ ہوں,ur
+I feel empty inside,en,میں اندر خالی محسوس کرتا ہوں,ur
+I have no motivation,en,میں نے ہمت نہیں ہے.,ur
+I feel like giving up,en,مجھے لگتا ہے کہ ہمت ہارنے کی طرح لگتا ہے,ur
+I cannot stop worrying,en,مَیں پریشان نہیں رہ سکتا,ur
+I feel like no one understands me,en,میں نے کسی کو مجھے فہم کی طرح محسوس کرتا ہے جیسے کوئی بھی میری طرح محسوس کرتا ہے,ur
+I am having panic attacks,en,میں شدید حملوں کا سامنا کر رہا ہوں,ur
+I feel worthless,en,مجھے بیکار محسوس ہوتا ہے,ur
+I cannot eat properly,en,میں نے موزوں طور پر کھا نہیں سکتا,ur
+I feel like a burden,en,مجھے ایک بوجھ کی طرح لگتا ہے,ur
+I am always tired,en,میں ہمیشہ تھکا ہوا ہوں,ur
+I need someone to talk to,en,مجھے کسی سے بات کرنے کی ضرورت ہے,ur
+I am feeling very stressed,en,میں بہت دباؤ محسوس کر رہا ہوں,ur
+I need help urgently,en,مجھے فوری مدد کی ضرورت ہے,ur
+I feel very anxious,en,مَیں بہت پریشان ہوں,ur
+I feel very lonely,en,میں بہت تنہا محسوس کرتی ہوں,ur
+I have been feeling depressed,en,مَیں افسردگی کا شکار ہوں,ur
+I feel hopeless and alone,en,میں مایوس اور تنہا محسوس کرتا ہوں,ur
+I feel very sad today,en,مَیں آج بہت غمزدہ ہوں,ur
+I am feeling overwhelmed,en,مجھے بہت غصہ آ رہا ہوں,ur
+I need help,en,مجھے مدد کی ضرورت ہے,ur
